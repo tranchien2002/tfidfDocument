@@ -1,0 +1,11 @@
+New iPad feature to compete with laptops could come in Apple's iOS 13
+The iPad is on track to get mouse support for the first time, according to Federico Viticci, editor in chief of MacStories. Viticci revealed his scoop on episode 239 of the Connected podcast. It was confirmed on Twitter by Steve Troughton-Smith, a long-time Apple developer from Ireland.
+Over the years, I've heard from plenty of smart people who really like the iPad but lament over the fact that they could do a lot more things with it if they could just plug in a mouse or a trackpad when they need to power through emails, edit photos, or perform traditional desktop tasks. In other words, I agree with Troughton-Smith that pro users would welcome this development.
+
+One of the main reasons it makes sense that Apple would add mouse support now is the work that it's doing with Project Marzipan, which allows developers to port iOS apps to Mac. A big part of that involves adapting those apps to work with a mouse.
+
+We expect to learn more about Marzipan at Apple's Worldwide Developer's Conference, happening June 3-7 at McEnery Convention Center in San Jose. CNET will be there covering the event from every angle. At this year's WWDC, Apple is likely to share the details of iOS 13, MacOS 10.15, WatchOS 6 and TVOS 13.
+Viticci also postulated that, with the next version of iOS, iPad apps could get windows or some window-like features. "Right now in iOS, when you open an app it can be one thing, one screen, one instance of the same app," he said in the same episode. "I think what we're going to get in iOS 13 is a way to have separate instances of the same app." The example he used was a document based-app like Pages, where you could have multiple documents open.
+
+For the same crowd that will welcome the idea of connecting a mouse to an iPad, the concept of getting windows or cards that could enable faster app-switching and multitasking would be another bonus for enhancing productivity.
+
